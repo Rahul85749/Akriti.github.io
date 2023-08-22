@@ -1,0 +1,13 @@
+*{
+    font-family: "Times New Roman";
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+#o{
+    font-size: 25px;
+}
+#i{
+    font-size: 10px;
+}
